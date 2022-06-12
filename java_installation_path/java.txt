@@ -1,0 +1,3 @@
+How to Change Java Versions in Windows (Updated for Java 18)
+
+url: https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
