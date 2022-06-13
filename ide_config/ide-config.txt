@@ -1,0 +1,3 @@
+To use netbeans in two windows tab.
+
+http://netbeans.tusharjoshi.com/2008/12/opening-multiple-netbeans-ide-instances.html
