@@ -1,0 +1,3 @@
+
+How to call microsoft graph api using postman
+https://stackoverflow.com/questions/55742935/how-to-call-azure-graph-api-using-postman
