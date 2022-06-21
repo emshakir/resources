@@ -1,0 +1,1 @@
+https://jsfiddle.net/du2Lo9fv/41/       -   remove element and append element click events work using delegated event using jquery on function 
