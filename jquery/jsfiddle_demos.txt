@@ -1,1 +1,4 @@
 https://jsfiddle.net/du2Lo9fv/41/       -   remove element and append element click events work using delegated event using jquery on function 
+
+
+https://www.techiedelight.com/hide-div-click-outside-javascript/   - Hide a div on clicking outside it with JavaScript/jQuery
