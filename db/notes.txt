@@ -1,0 +1,20 @@
+PERSON TABLE - Owner
+
+NAME
+EMAIL
+COUNTRY
+
+COUNTRY TABLE - Reference
+
+COUNTRY_CODE
+COUNTRY_NAME
+
+When I want to create a mapping between both the tables and use a different column as the foreign key column I have to mention the @JoinColumn
+on top the mapping column and need to provide the coumn name from owning table.
+
+@JoinTable(name = "COUNTRY", nullable = false)
+
+note: The column of the reference table should be primary key.
+
+P.S: If we want to have a bidirectional relationship between the two tables i.e., 
+I should have possibility to fetch PERSON data using COUNTRY from PERSON Table(all persons belong to this country) 
