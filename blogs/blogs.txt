@@ -1,1 +1,4 @@
 https://medium.com/@fazazulfikapp/java-ftp-integration-using-apache-commons-net-5efb3d300829
+
+
+https://simplesolution.dev/spring-boot-sftp-file-transfer-using-jsch-java-library/
