@@ -2,3 +2,6 @@ https://medium.com/@fazazulfikapp/java-ftp-integration-using-apache-commons-net-
 
 
 https://simplesolution.dev/spring-boot-sftp-file-transfer-using-jsch-java-library/
+
+
+https://www.toolsqa.com/git/git-fetch/
