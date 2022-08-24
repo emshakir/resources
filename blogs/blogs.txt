@@ -5,3 +5,7 @@ https://simplesolution.dev/spring-boot-sftp-file-transfer-using-jsch-java-librar
 
 
 https://www.toolsqa.com/git/git-fetch/
+
+
+
+https://javabydeveloper.com/spring-jdbctemplate-batch-update-with-maxperformance/ - batch insert, update
