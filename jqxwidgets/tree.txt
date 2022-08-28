@@ -1,0 +1,6 @@
+http://jsfiddle.net/ASBn8/257/  -   Basic Tree Functionality
+
+
+https://stackoverflow.com/questions/23830070/implementing-search-on-a-jqxtree-using-jqxdataadapter-plugin - To Add Search on grid
+
+
