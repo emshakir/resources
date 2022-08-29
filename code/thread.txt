@@ -1,0 +1,14 @@
+ExecutorService executor = Executors.newSingleThreadExecutor();
+                    executor.submit(() -> {
+                        String threadName = Thread.currentThread().getName();
+                        System.out.println("New Thread Started ::::: ");
+                        try {
+                            int insertedCount = nimicPocDAO.insertDataIntoUnificationUsingBatchInsert(request);
+                            System.out.println("Records Inserted ::::: " + insertedCount);
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        } finally {
+                            executor.shutdownNow();
+                            System.out.println("New Thread Shutdown finished :::::: ");
+                        }
+                    });
