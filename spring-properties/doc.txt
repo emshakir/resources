@@ -1,0 +1,1 @@
+server.servlet.context-path=/TacoCloud   -  to set the application name in url path [ http://localhost:8080/TacoCloud/ ]
